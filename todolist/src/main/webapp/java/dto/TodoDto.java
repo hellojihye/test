@@ -1,5 +1,5 @@
 package kr.or.connect.dto;
-//git test
+//git test good
 public class TodoDto {
 	private long id;
 	private String name;
